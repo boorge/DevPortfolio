@@ -1,4 +1,4 @@
-# DevPortfolio - Hacktoberfest > 🚀
+# DevPortfolio - Hacktoberfest 🚀
 Welcome to the Developer Portfolio - React repository for Hacktoberfest 2023! 🚀
 
 This open-source project aims to create a dynamic and customizable developer portfolio website using React. Whether you're a seasoned developer or just getting started, contributing to this project will not only enhance your skills but also provide you with a personalized portfolio to showcase your work.
